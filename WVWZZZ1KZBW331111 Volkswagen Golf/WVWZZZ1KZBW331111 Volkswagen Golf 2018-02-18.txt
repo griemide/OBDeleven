@@ -1,0 +1,31 @@
+OBDeleven Fehlerspeicher Daten 
+
+Datum: 2018-02-18 18:14 
+
+    FIN: WVWZZZ1KZBW331111 
+    Fahrzeug: Volkswagen Golf 
+    Jahr: 2011 
+    Karosserietyp: 3-dr hatchback 
+    Motor: CBZA 63 kW (86 HP) 1.2 l 
+    Kilometerstand: 98080 KM 
+
+--------------------------------------------------------------- 
+19 Diagnoseinterface für Datenbus 
+
+    Systembeschreibung: J533  Gateway 
+    Software-Nummer: 7N0907530C 
+    Software-Version: 0614 
+    Hardware-Nummer: 1K0907951  
+    Hardware-Version: H37 
+    Seriennummer: 060511F2002265 
+    Lange Codierung: 350002 
+
+    Fehlercodes: 
+        00469 - Datenbus Infotainment im Eindraht Unterbrechung 
+            sporadisch 
+                Priority:  3 
+                Frequency counter:  3 
+                Driving cycle: 110 
+                Mileage: 96328 km 
+                Messung: -0.9 °v.OT 
+
