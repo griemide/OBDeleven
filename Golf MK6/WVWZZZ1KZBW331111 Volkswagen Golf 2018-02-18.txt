@@ -10,7 +10,7 @@ Datum: 2018-02-18 18:14
     Kilometerstand: 98080 KM 
 
 --------------------------------------------------------------- 
-19 Diagnoseinterface für Datenbus 
+19 Diagnoseinterface fÃ¼r Datenbus 
 
     Systembeschreibung: J533  Gateway 
     Software-Nummer: 7N0907530C 
@@ -27,5 +27,5 @@ Datum: 2018-02-18 18:14
                 Frequency counter:  3 
                 Driving cycle: 110 
                 Mileage: 96328 km 
-                Messung: -0.9 °v.OT 
+                Messung: -0.9 Â°v.OT 
 
