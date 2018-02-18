@@ -1,7 +1,7 @@
 # OBDeleven
 OBDelven related topics
 
-![ODBelevenAdapter](/OBDeleven/OBDeleven.png)
+![ODBelevenAdapter](/OBDeleven.png)
 
 [OBDeleven Homepage](http://www.obdeleven.de/)
 
