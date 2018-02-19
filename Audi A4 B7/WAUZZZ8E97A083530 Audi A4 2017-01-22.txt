@@ -1,0 +1,97 @@
+OBDeleven Fahrzeug Änderungsprotokoll
+
+Datum: 2017-01-22 15:46
+
+    FIN: WAUZZZ8E97A083530
+    Fahrzeug: Audi A4
+    Jahr: 2007
+    Kilometerstand: 251580 KM
+
+---------------------------------------------------------------
+Sicherung
+    Steuergerät: 17 Schalttafeleinsatz
+    Systembeschreibung: KOMBI+WFS 4     H14
+    Software-Version: 0110
+    Hardware-Nummer: 8E0920901D
+    Seriennummer: 00000000000000
+    Name der Sicherung: 17
+    Codierung: 
+        0006011
+    Anpassungen:
+        Kanal 002: 0
+        Kanal 003: 100
+        Kanal 004: 1
+        Kanal 018: 0
+        Kanal 019: 30100
+        Kanal 030: 128
+        Kanal 032: 20
+        Kanal 033: 128
+        Kanal 035: 0
+        Kanal 040: 78
+        Kanal 041: 265
+        Kanal 042: 150
+        Kanal 043: 300
+        Kanal 044: 730
+        Kanal 045: 2
+        Kanal 047: 247
+        Kanal 048: 43
+        Kanal 049: 365
+        Kanal 060: 1045
+        Kanal 061: 3331
+        Kanal 062: 17
+        Kanal 099: 0
+    Kilometerstand: 251580 km
+    Datum: 2017-01-22 15:33
+
+---------------------------------------------------------------
+Sicherung
+    Steuergerät: 08 Klima-/ Heizungselektronik
+    Systembeschreibung: A4 Klimaautomat   2833
+    Software-Nummer: 8E0820043BJ
+    Name der Sicherung: 08
+    Codierung: 
+        00000
+    Anpassungen:
+        Kanal 001: 4
+        Kanal 002: 0
+        Kanal 003: 1
+        Kanal 004: 0
+        Kanal 006: 0
+        Kanal 007: 0
+        Kanal 008: 6400
+        Kanal 009: 118
+        Kanal 010: 0
+        Kanal 011: 0
+        Kanal 012: 0
+        Kanal 013: 0
+        Kanal 014: 0
+        Kanal 015: 0
+        Kanal 016: 0
+        Kanal 020: 0
+        Kanal 081: 0
+    Kilometerstand: 251580 km
+    Datum: 2017-01-22 15:33
+
+---------------------------------------------------------------
+Sicherung
+    Steuergerät: 01 Motorelektronik
+    Systembeschreibung: R4 2,0L EDC G000SG
+    Software-Version: 9012
+    Hardware-Nummer: 03G906016KN
+    Name der Sicherung: 01
+    Codierung: 
+        0000072
+    Anpassungen:
+        Kanal 012:   !N
+        Kanal 016: ,
+        Kanal 017: ,
+        Kanal 018: ,
+        Kanal 019:   
+        Kanal 020:  È
+        Kanal 021:  È
+        Kanal 022:   
+        Kanal 050: } 
+        Kanal 091:  
+    Kilometerstand: 251580 km
+    Datum: 2017-01-22 14:16
+
