@@ -5,6 +5,8 @@ OBDelven related topics
 
 [OBDeleven Homepage](http://www.obdeleven.de/)
 
+VAS 5051 [error codes](vas-5051-error-codes.pdf)
+
 ## Forum
 
 OBDelven Foren zum jeweiligen Fahrzeugtyp
