@@ -1,0 +1,61 @@
+OBDeleven Fehlerspeicher Daten
+
+Datum: 2017-01-22 15:45
+
+    FIN: WAUZZZ8E97A083530
+    Fahrzeug: Audi A4
+    Jahr: 2007
+    Kilometerstand: 251580 KM
+
+---------------------------------------------------------------
+01 Motorelektronik
+
+    Systembeschreibung: R4 2,0L EDC G000SG
+    Software-Version: 9012
+    Hardware-Nummer: 03G906016KN
+    Codierung: 0000072
+
+    Fehlercodes: 
+        P1588 - Ventile für Motorlagerung Unterbrechung
+            sporadisch
+                Frequency counter:  6
+                Measurements: 
+	0 U/min
+	0 km/h
+	100.0 %
+	11.9 V
+                Mileage: 227042 km
+                Driving cycle: 255
+                Priority:  3
+        P0471 - Drucksensor 1 für Abgas unplausibles Signal
+            sporadisch
+                Driving cycle: 255
+                Frequency counter:  9
+                Measurements: 
+	0 U/min
+	0 km/h
+	25.50
+	10.20
+                Priority:  2
+        P0234 - Ladedruckregelung Regelgrenze überschritten
+            sporadisch
+                Frequency counter:  1
+                Measurements: 
+	3654 U/min
+	85 km/h
+	62.7 %
+	13.6 V
+                Mileage: 250347 km
+                Driving cycle: 255
+                Priority:  1
+        P0101 - Luftmassenmesser unplausibles Signal
+            sporadisch
+                Frequency counter:  1
+                Measurements: 
+	1596 U/min
+	50 km/h
+	36.0 °C
+	1030 mbar
+                Mileage: 251513 km
+                Driving cycle: 255
+                Priority:  2
